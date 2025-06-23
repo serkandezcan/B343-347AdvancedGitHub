@@ -14,4 +14,7 @@ public class MyClass {
     public String string5 = "Bu da Techpro branch'inde olusturulmus baska bir string'dir";
     //version v4
     public String string6 = "Bu artik daha baska bir string'dir";
+
+    //version v5
+    public String string7 = "Tarabya'da villasi, cafcafli arabasi";
 }
