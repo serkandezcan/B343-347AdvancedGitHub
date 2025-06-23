@@ -10,4 +10,6 @@ public class MyClass {
 
     //Techpro branch, version t1
     public String string4 = "Bu da Techpro branch'inde olusturulmus bir string'dir";
+    //Techpro branch, version t2
+    public String string5 = "Bu da Techpro branch'inde olusturulmus baska bir string'dir";
 }
