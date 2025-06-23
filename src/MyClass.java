@@ -18,8 +18,11 @@ public class MyClass {
     //version v4
     public String string6 = "Bu artik daha baska bir string'dir";
 
+    //version v5
+    public String string7 = "Tarabya'da villasi, cafcafli arabasi";
+
     //Techpro branch, version t3
-    public String string7 = "Hangi string oldugunun hesabani yapamadim.";
+    public String string9 = "Hangi string oldugunun hesabani yapamadim.";
 
     //Techpro branch, version t4
     public String string8 = "Dar geldi sana Ankara.";
